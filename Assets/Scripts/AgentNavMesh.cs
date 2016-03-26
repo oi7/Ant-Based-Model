@@ -2,7 +2,7 @@
 /// 
 /// Developed and Designed by Poseidon Ho at MIT Media Lab 
 /// 
-/// Script allows for simulating completely random agent movement using NavMesh
+/// Script for simulating completely random agent movement using NavMesh
 /// 
 
 using UnityEngine;

@@ -2,7 +2,7 @@
 /// 
 /// Developed and Designed by Poseidon Ho at MIT Media Lab 
 /// 
-/// Script allows for following and tracking of select agents in a model
+/// Script for following and tracking of select agents in a model
 /// 
 
 

@@ -50,6 +50,7 @@
      <Compile Include="Assets\Scripts\AgentNavMesh.cs" />
      <Compile Include="Assets\Scripts\Agents.cs" />
      <Compile Include="Assets\Scripts\CameraSwap.cs" />
+     <Compile Include="Assets\Scripts\SceneSelector.cs" />
      <Compile Include="Assets\Vuforia\Scripts\BackgroundPlaneBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\CloudRecoBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\CylinderTargetBehaviour.cs" />

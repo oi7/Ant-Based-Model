@@ -1,3 +1,10 @@
+/// Ant-Based Modeling
+/// 
+/// Developed and Designed by Poseidon Ho at MIT Media Lab 
+/// 
+/// Script for switching between UICamera and ARCamera
+/// 
+
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;

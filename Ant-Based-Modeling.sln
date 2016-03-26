@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5EDF26E3-5616-DD33-1F54-8CC5AB8711B5}") = "Ant-Based-Modeling", "Assembly-CSharp.csproj", "{4C32EFE1-0068-CE94-E6CE-D4100FFB0CEC}"
+EndProject
+Project("{5EDF26E3-5616-DD33-1F54-8CC5AB8711B5}") = "Ant-Based-Modeling", "Assembly-CSharp-Editor.csproj", "{FD685D03-95D5-AF27-2914-167C221E26C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C32EFE1-0068-CE94-E6CE-D4100FFB0CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C32EFE1-0068-CE94-E6CE-D4100FFB0CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C32EFE1-0068-CE94-E6CE-D4100FFB0CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C32EFE1-0068-CE94-E6CE-D4100FFB0CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD685D03-95D5-AF27-2914-167C221E26C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD685D03-95D5-AF27-2914-167C221E26C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD685D03-95D5-AF27-2914-167C221E26C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD685D03-95D5-AF27-2914-167C221E26C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

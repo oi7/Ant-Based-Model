@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Ants/Ants/Models/Scenes/scene0.unity
+- path: Assets/main.unity
   isLoaded: 1
   isActive: 1

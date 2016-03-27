@@ -19,4 +19,8 @@ public class SceneSelector : MonoBehaviour {
 	public void LoadLibraryScene(){
 		Application.LoadLevel(1);
 	}
+
+	public void LoadGameScene(){
+		Application.LoadLevel(2);
+	}
 }

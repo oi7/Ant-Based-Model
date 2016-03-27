@@ -15,8 +15,8 @@ public class CameraSwap : MonoBehaviour
 	public GameObject ARCamera;
 
 	void Start() {
-		UICamera.SetActive(false);
-		ARCamera.SetActive(true);
+		UICamera.SetActive(true);
+		ARCamera.SetActive(false);
 	}
 
 	public void Switch() {

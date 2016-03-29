@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="AntBasedModeling_Image2" size="1920.000000 1200.000000" />
-    <ImageTarget name="AntBasedModeling_Image" size="1920.000000 1200.000000" />
+    <ImageTarget name="ImageTarget_Larva" size="1920.000000 1200.000000" />
+    <ImageTarget name="ImageTarget_Warrior" size="1920.000000 1200.000000" />
+    <ImageTarget name="ImageTarget_Worker" size="1920.000000 1200.000000" />
+    <ImageTarget name="ImageTarget_Queen" size="1920.000000 1200.000000" />
+    <ImageTarget name="ImageTarget_Egg" size="1920.000000 1200.000000" />
   </Tracking>
 </QCARConfig>

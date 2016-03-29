@@ -47,16 +47,6 @@
   <ItemGroup>
      <Compile Include="Assets\Ants\Ants\Scripts\MenuCommands.cs" />
      <Compile Include="Assets\Ants\Ants\Scripts\MouseRotate.cs" />
-     <Compile Include="Assets\Game\Scripts\Camera\CameraFollow.cs" />
-     <Compile Include="Assets\Game\Scripts\Enemy\EnemyAttack.cs" />
-     <Compile Include="Assets\Game\Scripts\Enemy\EnemyHealth.cs" />
-     <Compile Include="Assets\Game\Scripts\Enemy\EnemyMovement.cs" />
-     <Compile Include="Assets\Game\Scripts\Managers\EnemyManager.cs" />
-     <Compile Include="Assets\Game\Scripts\Managers\GameOverManager.cs" />
-     <Compile Include="Assets\Game\Scripts\Managers\ScoreManager.cs" />
-     <Compile Include="Assets\Game\Scripts\Player\PlayerHealth.cs" />
-     <Compile Include="Assets\Game\Scripts\Player\PlayerMovement.cs" />
-     <Compile Include="Assets\Game\Scripts\Player\PlayerShooting.cs" />
      <Compile Include="Assets\Scripts\AgentController.cs" />
      <Compile Include="Assets\Scripts\AgentNavMesh.cs" />
      <Compile Include="Assets\Scripts\Agents.cs" />
@@ -107,14 +97,13 @@
      <None Include="Assets\Vuforia\Shaders\RenderVideoBackground.shader" />
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
+     <None Include="Assets\StreamingAssets\QCAR\Ant-Based-Modeling_Android.xml" />
      <None Include="Assets\Vuforia\Editor\WebcamProfiles\profiles.xml" />
      <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
      <None Include="Assets\readme_SDK.txt" />
-     <None Include="Assets\Game\Fonts\LuckiestGuy\LICENSE.txt" />
      <None Include="Assets\Vuforia\Shaders\ClippingMask.shader" />
      <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
      <None Include="Assets\license_3rdpartynotice.txt" />
-     <None Include="Assets\StreamingAssets\QCAR\Ant-Based-Modeling_Android.xml" />
      <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

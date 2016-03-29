@@ -1,0 +1,14 @@
+/Users/poseidonho/Dropbox/Ant-Based Modeling/Unity/Temp/bin/Debug/UnityEngine.dll
+/Users/poseidonho/Dropbox/Ant-Based Modeling/Unity/Temp/bin/Debug/UnityEditor.dll
+/Users/poseidonho/Dropbox/Ant-Based Modeling/Unity/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/poseidonho/Dropbox/Ant-Based Modeling/Unity/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/poseidonho/Dropbox/Ant-Based Modeling/Unity/Temp/bin/Debug/Vuforia.UnityExtensions.dll
+/Users/poseidonho/Dropbox/Ant-Based Modeling/Unity/Temp/bin/Debug/Mono.Cecil.dll
+/Users/poseidonho/Dropbox/Ant-Based Modeling/Unity/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/poseidonho/Dropbox/Ant-Based Modeling/Unity/Temp/bin/Debug/Unity.DataContract.dll
+/Users/poseidonho/Dropbox/Ant-Based Modeling/Unity/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/poseidonho/Dropbox/Ant-Based Modeling/Unity/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/poseidonho/Dropbox/Ant-Based Modeling/Unity/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/poseidonho/Dropbox/Ant-Based Modeling/Unity/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/poseidonho/Dropbox/Ant-Based Modeling/Unity/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/poseidonho/Dropbox/Ant-Based Modeling/Unity/Temp/bin/Debug/Mono.Cecil.Mdb.dll
